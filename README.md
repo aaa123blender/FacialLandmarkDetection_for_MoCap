@@ -14,7 +14,7 @@ Creation date: 7-9-2025.
 * Open-CV:     pip install opencv-python
 * dlib: Lookup in the internet
 * numpy
-#Blender (3.6) is the preffered version.
+* Blender (3.6) is the preffered version.
 
 # Note
 Make sure to place the shape_predictor_68_face_landmarks.dat file in the same directory as ipynb file. or give the complete path in the line landmark_predector variable in ipynb file.<br>
