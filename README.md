@@ -18,3 +18,4 @@ Creation date: 7-9-2025.
 
 # Note
 Make sure to place the shape_predictor_68_face_landmarks.dat file in the same directory as ipynb file. or give the complete path in the line landmark_predector variable in ipynb file.
+** Link to shape_predictor_68_face_landmarks.dat: https://www.kaggle.com/datasets/sergiovirahonda/shape-predictor-68-face-landmarksdat
