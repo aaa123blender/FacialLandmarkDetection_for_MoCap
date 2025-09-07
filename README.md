@@ -10,10 +10,10 @@ Creation date: 7-9-2025.
 4. In the 3D window, press N, then go to Landmark tab, press start server.
 5. Run the ipynb file, press r to start streaming to Blender
 
-#Required Packages:
-*Open-CV:     pip install opencv-python
-#dlib: Lookup in the internet
-#numpy
+# Required Packages:
+* Open-CV:     pip install opencv-python
+* dlib: Lookup in the internet
+* numpy
 #Blender (3.6) is the preffered version.
 
 # Note
