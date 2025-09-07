@@ -4,7 +4,7 @@ A project about facial motion capture using Facial Landmark detection to cutdown
 # Requirements
 This project is created in Python 311. I hope it will run with latest Python version as well.
 Creation date: 7-9-2025.
-1. Create a virtual environment: python -m venv <name>
+1. Create a virtual environment: python -m venv (name)
 2. pip install required packages
 3. Open Blender, open the Blender_Plugin.py file and run
 4. In the 3D window, press N, then go to Landmark tab, press start server.
