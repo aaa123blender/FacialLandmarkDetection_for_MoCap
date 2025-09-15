@@ -4,3 +4,5 @@ pandas
 torch
 torchvision
 tensorflow
+opencv-python
+dlib
