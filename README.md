@@ -19,3 +19,12 @@ Creation date: 7-9-2025.
 # Note
 Make sure to place the shape_predictor_68_face_landmarks.dat file in the same directory as ipynb file. or give the complete path in the line landmark_predector variable in ipynb file.<br>
 **Link to shape_predictor_68_face_landmarks.dat:** https://www.kaggle.com/datasets/sergiovirahonda/shape-predictor-68-face-landmarksdat
+
+# Requirements
+1. Copy/Download the requirements.txt from this GitHub, place it in the project (*venv*) folder.
+2. Run the following command on VSCODE terminal or pip terminal in which you have activated your virtual environment (venv). <br>
+  **pip install -r requirments.txt**
+
+  *if you're giving the command in JupyterNotebook's code line, add ! at the beginning of the line:* <br>
+    **!pip install -r requirements.txt**
+3. Make sure to give the right path to the requirements.txt file.
