@@ -28,8 +28,8 @@ Make sure to place the shape_predictor_68_face_landmarks.dat file in the same di
   *if you're giving the command in JupyterNotebook's code line, add ! at the beginning of the line:* <br>
     **!pip install -r requirements.txt**
 3. Make sure to give the right path to the requirements.txt file.
-<hr>
-date:11-2-2024
+<hr/>
+date:11-2-2024 <br/>
 # Code found on Kaggle
 https://www.kaggle.com/datasets/drgilermo/face-images-with-marked-landmark-points/code
 
