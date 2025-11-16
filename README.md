@@ -28,12 +28,18 @@ Make sure to place the shape_predictor_68_face_landmarks.dat file in the same di
   *if you're giving the command in JupyterNotebook's code line, add ! at the beginning of the line:* <br>
     **!pip install -r requirements.txt**
 3. Make sure to give the right path to the requirements.txt file.
-<hr/>
+
 date:11-2-2024 <br/>
 # Code found on Kaggle
 https://www.kaggle.com/datasets/drgilermo/face-images-with-marked-landmark-points/code
 
-**this one gives error during data preproessing**
+*this one gives error during data preproessing*
 Uses Tensorflow for training
 Dataset can also be found on the same site
-<hr>
+
+*Date: 16-11-2025* <br></br>
+# Trained Tensorflow using MobileNetV2 with around 5k of dataset. (original: 60k)
+## Requirements
+### Virtual environment:
+ -> *python 3.12* and Tensorflow 2.20 since the model is trained for this version only.
+**Dowload the model.h5 file and load it using kers.load_model(model)**
